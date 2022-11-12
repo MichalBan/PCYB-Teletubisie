@@ -1,3 +1,4 @@
 *.log
 *.exe
+!mingw-get-setup.exe
 *.bat
